@@ -34,4 +34,8 @@ The generated report includes the following data extracted from the iOS backup:
 
 
 
+![web_screenshot](https://github.com/user-attachments/assets/ebdcf8e8-00a7-419f-9959-d9046d20a374)
+
+![whatsapp_screenshot](https://github.com/user-attachments/assets/f4163141-0f00-4409-9961-ac130ae7d0ff)
+
 
